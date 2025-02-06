@@ -1,4 +1,4 @@
-Learn Github workflows.
+Master Git commands.
 Practice branching and merging.
 Improve collaboration skills using GitHub.
 Master Git commmands and workflows.
